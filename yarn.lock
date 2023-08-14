@@ -3461,10 +3461,10 @@
     regenerator-runtime "^0.13.7"
     resolve-from "^5.0.0"
 
-"@testing-library/react-native@^11.5.4":
-  version "11.5.4"
-  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-11.5.4.tgz#5c57c0c5afc3f1960ff491aba68f66adc899e1cc"
-  integrity sha512-6DRzMHqili5pp1JRm7fh80SAP48aR25b37gohlLoKbqGBpDw8BbZTad7Luzktm9MU5DQUm7xyzg07Z1CyveVFA==
+"@testing-library/react-native@^12.2.2":
+  version "12.2.2"
+  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-12.2.2.tgz#4b2275d5d1feb689c9b1e5cd9cb03ffe32a43228"
+  integrity sha512-aLr7YQ6pyn8PbLmdbtADG2aKcmarTLI7VhgWNVzJLxQHOtsDxLpJGKMSw10j406BE/GyGHbB0Gln3Of8/2TjnA==
   dependencies:
     pretty-format "^29.0.0"
 
